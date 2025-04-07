@@ -1,0 +1,21 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimboo-zrad/JavaScript.git"
+  },
+  "keywords": ['JS'],
+  "author": "Nima Ziaei Rad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimboo-zrad/JavaScript/issues"
+  },
+  "homepage": "https://github.com/nimboo-zrad/JavaScript#readme",
+  "description": ""
+  "type": "module"
+}
